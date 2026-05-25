@@ -1,0 +1,11 @@
+# Nexent Agent Factory
+
+Nexent Agent Factory is a SaaS workspace for OpenAI Codex agent workflow platform.
+
+Website: https://nexentagent.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: OpenAI Codex agent workflow platform
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
